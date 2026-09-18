@@ -17,9 +17,7 @@
  *                   READ                                - remove highest-priority email (no output)
  *                   COUNT                               - print number of unread emails
  *                 Usage:
- *                   ./program testfile.txt   (read from a named file), or
- *                   ./program < testfile.txt (read from redirected stdin)
- *                  // RUN USING "./email_priority_queue_claude Test_file.txt" IN LINUX TERMINAL AT FILE LOCATION
+ *                 RUN USING "./email_priority_queue_claude Test_file.txt" IN LINUX TERMINAL AT FILE LOCATION
  *
  * Output:         Terminal output for NEXT and COUNT commands, per the
  *                 assignment's specified format. READ produces no output.
