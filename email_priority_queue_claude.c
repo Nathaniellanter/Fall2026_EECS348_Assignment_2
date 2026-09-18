@@ -41,6 +41,7 @@
  * Revisions:      [e.g., "Fixed heap sift-down bug", "Added empty-queue guards"]
  * ============================================================
  */
+// RUN USING "./email_priority_queue_claude Test_file.txt" IN TERMINAL
 
 #include <stdio.h>   /* for printf, fprintf, fgets */
 #include <stdlib.h>  /* for malloc, realloc, free, exit */
